@@ -8,9 +8,9 @@ with open('README.md') as readme_file:
 with open('CHANGELOG.md') as changelog_file:
     changelog = changelog_file.read()
 
-name = 'jane_doe.dev_test'
-author = 'Jane Doe'
-author_email = 'jande.doe@null.com'
+name = 'dmitriy_pinskiy.dev_test'
+author = 'Dmitriy Pinskiy'
+author_email = 'dpinskiy@yahoo.com'
 description = 'Marcom CG Studio Candidate Test 1'
 license = 'MIT'
 long_description = readme + '\n\n' + changelog
