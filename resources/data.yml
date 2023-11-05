@@ -1,0 +1,42 @@
+-
+  -
+    display_name: Pipeline Department
+    employees:
+      -
+          first_name: Jane
+          last_name: Doe
+          role: Developer
+      -
+          first_name: John
+          last_name: Appleseed
+          role: Developer
+  -
+    display_name: Compositing Department
+    employees:
+      -
+        first_name: Ellen
+        last_name: Ripley
+        role: Lead Compositor
+      -
+        first_name: John
+        last_name: Conners
+        role: Compositor
+      -
+        first_name: Rick
+        last_name: Deckard
+        role: Compositor
+  -
+    display_name: Lighting Department
+    employees:
+      -
+        first_name: Rita
+        last_name: Vrataski
+        role: Lighter
+      -
+        first_name: Uhura
+        last_name: None
+        role: Lighter
+      -
+        first_name: Jack
+        last_name: Foley
+        role: Lead Lighter
